@@ -1,0 +1,139 @@
+body {
+    background: rgb(139, 209, 98) url(mypage2.jpg);
+    color: #fff; 
+}
+
+.quotes1 {
+    position: relative;
+    background: rgb(139, 209, 98);
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 600px;
+    height: 400px;
+    margin-left: 28%;
+    margin-top: 10%;
+    text-align: center;
+    top: calc(50% - 200px);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   }
+
+.cats-text {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    margin: 20%;
+    color: black;
+    font-family: ComicSansMS;
+    font-size: 25px;
+}
+
+.cat1-img {
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 18%;
+}
+
+.cat2-img {
+    position: absolute;
+    margin-left: 15%;
+    top: 30px;
+    left: 40%;
+}
+
+.cat3-img {
+    position: absolute;
+    margin-left: 15%;
+    top: 30%;
+    left: 53%;
+    transform: rotate(90deg);
+}
+
+.cat4-img {
+    position: absolute;
+    margin-left: 15%;
+    top: 4.5%;
+    left: 17%;
+}
+
+.quotes2 {
+    position: relative;
+    background: rgb(139, 209, 98);
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 350px;
+    height: 200px;
+    margin-left: 13%;
+    margin-top: 10%;
+    text-align: center;
+    margin-top: 30%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.dogs1-text {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    margin: 20%;
+    color: black;
+    font-family: ComicSansMS;
+    font-size: 20px;
+}
+
+.dog1-img {
+    position: absolute;
+    top: 900px;
+    left: 30%;
+}
+
+.dog2-img {
+    position: absolute;
+    margin-left: 5%;
+    top: 937px;
+    left: 12%;
+}
+
+.quotes3 {
+    position: relative;
+    background: rgb(139, 209, 98);
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 350px;
+    height: 200px;
+    left: 60%;
+    margin-top: 15%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.dogs2-text {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    margin: 20%;
+    color: black;
+    font-family: ComicSansMS;
+    font-size: 20px;
+}
+
+.dog3-img {
+    position: absolute;
+    margin-left: 25%;
+    top: 1343px;
+    left: 58%;
+}
+
+.dog4-img {
+    position: absolute;
+    margin-left: 25%;
+    top: 1320px;
+    left: 35%;
+}
